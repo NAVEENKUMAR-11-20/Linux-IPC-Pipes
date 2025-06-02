@@ -104,7 +104,7 @@ void client(int wfd, int rfd) {
 ```
 
 ## OUTPUT
-![]((https://github.com/Mageshofficial2007/Linux-IPC-Pipes/raw/main/img/pipe1.png))
+![](https://github.com/Mageshofficial2007/Linux-IPC-Pipes/raw/main/img/pipe1.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```python
